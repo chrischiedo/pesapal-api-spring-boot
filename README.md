@@ -31,7 +31,7 @@ https://developer.pesapal.com/api3-demo-keys.txt
 You can change the demo keys from the `application.properties` file.
 
 ## Sample API call using Postman
-Here is a screenshot showing the results of a GET request for a `Transaction Status`:
+Here is a screenshot showing the result of a GET request for a `Transaction Status`:
 
 Endpoint: http://localhost:8080/api/transaction-status?orderTrackingId=xxxxxx
 

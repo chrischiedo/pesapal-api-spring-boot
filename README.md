@@ -1,6 +1,6 @@
 # Pesapal sample Spring Boot project
 
-This is a simple [Spring Boot](https://spring.io/projects/spring-boot) project that interacts with the [Pesapal API](https://developer.pesapal.com/how-to-integrate/e-commerce/api-30-json/api-reference). The project was inspired by the [Node/Express version](https://github.com/Pesapal-Ltd/Sample_Api3_node/) that is provided by the Pesapal team.
+This is a simple [Spring Boot](https://spring.io/projects/spring-boot) project that integrates with the [Pesapal API](https://developer.pesapal.com/how-to-integrate/e-commerce/api-30-json/api-reference). The project was inspired by the [Node/Express version](https://github.com/Pesapal-Ltd/Sample_Api3_node/) that is provided by the Pesapal team.
 
 ## Prerequisites
 Before you begin, ensure you have the following installed on your local machine:
@@ -38,6 +38,6 @@ Endpoint: http://localhost:8080/api/transaction-status?orderTrackingId=xxxxxx
 <img width="2880" alt="pesapal-api-postman-screenshot" src="sample-postman-screenshot.png">
 
 ## Official Pesapal API Reference
-For more in depth documentation on Pesapal API3 integration, please refer to the link below:
+For an in-depth documentation on Pesapal API3 integration, please refer to the following link:
 
 https://developer.pesapal.com/how-to-integrate/e-commerce/api-30-json/api-reference

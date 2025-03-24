@@ -25,13 +25,13 @@ $ cd pesapal-api-spring-boot
 $ ./mvnw spring-boot:run
 ```
 
->**Note**: By default, this sample project is using Kenyan demo keys. Feel free to switch to any other keys of the country of your choice from the link below:
+>**Note**: By default, this sample project is using Kenyan demo keys. Feel free to switch to any other keys of the country of your choice from this link:
 https://developer.pesapal.com/api3-demo-keys.txt
 
 You can change the demo keys from the `application.properties` file.
 
 ## Sample API call using Postman
-Here is a screenshot showing the results of a GET request:
+Here is a screenshot showing the results of a GET request for a `Transaction Status`:
 
 Endpoint: http://localhost:8080/api/transaction-status?orderTrackingId=xxxxxx
 

@@ -38,6 +38,6 @@ Endpoint: http://localhost:8080/api/transaction-status?orderTrackingId=xxxxxx
 <img width="2880" alt="pesapal-api-postman-screenshot" src="sample-postman-screenshot.png">
 
 ## Official Pesapal API Reference
-For an in-depth documentation on Pesapal API3 integration, please refer to the following link:
+For an in-depth documentation on Pesapal API 3.0 integration, please refer to the following link:
 
 https://developer.pesapal.com/how-to-integrate/e-commerce/api-30-json/api-reference

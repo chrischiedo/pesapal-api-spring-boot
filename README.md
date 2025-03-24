@@ -14,7 +14,7 @@ Follow these steps to set up and run the project locally:
 The first step is to clone the project:
 
 ```bash
-$ git clone https://github.com/chris-chiedo/pesapal-api-spring-boot.git
+$ git clone https://github.com/chrischiedo/pesapal-api-spring-boot.git
 ```
 
 ### Run the application
